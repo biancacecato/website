@@ -1,3 +1,6 @@
+#reference link:
+#https://shilaan.rbind.io/post/building-your-website-using-r-blogdown/#fnref:2
+
 #install.packages("blogdown") # install the blogdown package
 library(blogdown) # load blogdown
 new_site(theme = "wowchemy/starter-academic") # create your website!
@@ -16,3 +19,10 @@ blogdown::check_site()
 rstudioapi::navigateToFile("netlify.toml") 
 
 rstudioapi::navigateToFile("content/authors/admin/_index.md")
+
+#remove widgets
+rstudioapi::navigateToFile("config/_default/menus.yaml")
+
+
+#theme
+rstudioapi::navigateToFile("config/_default/params.yaml")
