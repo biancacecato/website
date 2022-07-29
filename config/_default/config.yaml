@@ -5,7 +5,7 @@ theme: "starter-hugo-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Academic # Website name
-baseURL: 'https://bianca-cecato.netlify.app' # Website URL
+baseURL: 'https://biancacecato.com' # Website URL 'https://bianca-cecato.netlify.app' 
 
 ############################
 ## LANGUAGE

@@ -2,6 +2,8 @@
 #https://shilaan.rbind.io/post/building-your-website-using-r-blogdown/#fnref:2
 
 #install.packages("blogdown") # install the blogdown package
+install.packages("remotes")
+remotes::install_github('rstudio/blogdown')
 library(blogdown) # load blogdown
 new_site(theme = "wowchemy/starter-academic") # create your website!
 
