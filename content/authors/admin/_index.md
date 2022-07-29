@@ -37,4 +37,4 @@ title: Bianca Cecato
 
 Welcome to my website. I am a PhD candidate at the Faculty of Land and Food Systems at the University of British Columbia. My main research currently focuses on investigating the impact of newspaper closures on monitoring and enforcement of environmental regulations in the United States. My other projects focus on developing countries, more specifically on the impact of climate change on internal migration in Indonesia, and on lead pollution and education outcomes in Mexico. I hold an MA in Economics at PUC-Rio, in Brazil. Before joining UBC, I worked for the World Bank in Washington DC on projects related to labor markets in Latin America.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "CV_Bianca.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "cv/CV_Bianca.pdf" "newtab" >}}resumé{{< /staticref >}}.
