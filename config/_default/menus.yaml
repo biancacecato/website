@@ -9,19 +9,19 @@ main:
     weight: 10
   - name: Resume
     url: pdf/CV_Bianca.pdf
-    weight: 70
-  - name: Posts
-    url: '#posts'
     weight: 20
-  - name: Projects
+  # - name: Posts
+  #   url: '#posts'
+  #   weight: 20
+  - name: Research
     url: '#projects'
     weight: 30
   - name: Talks
     url: '#talks'
     weight: 40
-  - name: Publications
-    url: '#featured'
-    weight: 50
+  # - name: Publications
+  #   url: '#featured'
+  #   weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
