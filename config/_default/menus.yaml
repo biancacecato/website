@@ -7,6 +7,9 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: Resume
+    url: pdf/CV_Bianca.pdf
+    weight: 70
   - name: Posts
     url: '#posts'
     weight: 20
