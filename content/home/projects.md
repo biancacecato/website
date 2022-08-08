@@ -43,11 +43,11 @@ design:
 
 ## Working Papers
 
-"Newspapers, Information and Enforcement of Environmental Laws"
+"Newspapers, Information, and Enforcement of Environmental Laws"
 
 [*Draft Available upon Request*]
 
-"Climate, Migration and Welfare", with Frederik Noack and Patrick Baylis
+"Can Migration Mitigate Weather and Climate Damages?", with Frederik Noack and Patrick Baylis
 
 [*Draft Available upon Request*]
 
