@@ -57,4 +57,4 @@ design:
 
 ## Policy Reports
 
-*[Lower Fraser Valley Visual Air Quality Pilot Study](https://sustain.ubc.ca/about/resources/lower-fraser-valley-visual-air-quality-pilot-study?fbclid=IwAR3hXPyvF1DXFtY_Cmu3CMDH6D8bM-mR2BnhRii9CjWEgnzU_8sET8K6ad4), in partnership with Metro Vancouver. UBC Sustainability Scholars report, 2019.
+[Lower Fraser Valley Visual Air Quality Pilot Study](https://sustain.ubc.ca/about/resources/lower-fraser-valley-visual-air-quality-pilot-study?fbclid=IwAR3hXPyvF1DXFtY_Cmu3CMDH6D8bM-mR2BnhRii9CjWEgnzU_8sET8K6ad4), in partnership with Metro Vancouver. UBC Sustainability Scholars report, 2019.
