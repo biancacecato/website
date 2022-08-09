@@ -45,11 +45,11 @@ design:
 
 "Newspapers, Information, and Enforcement of Environmental Laws"
 
-[*Draft Available upon Request*]
+[Abstract](pdf/Abstract_news.pdf) [*Draft Available upon Request*]
 
 "Can Migration Mitigate Weather and Climate Damages?", with Frederik Noack and Patrick Baylis
 
-[*Draft Available upon Request*]
+[Abstract](pdf/Abstract_mig.pdf) [*Draft Available upon Request*]
 
 ## Work in Progress
 
