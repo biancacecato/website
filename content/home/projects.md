@@ -51,9 +51,13 @@ design:
 
 [Abstract](pdf/Abstract_mig.pdf) [*Draft Available upon Request*]
 
+<br>
+
 ## Work in Progress
 
 "The Impact of Lead Exposure on Education: Evidence from Mexico", with Erin Litzow and Tatiana Zarete
+
+<br>
 
 ## Policy Reports
 
