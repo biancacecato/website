@@ -43,19 +43,17 @@ design:
 
 ## Working Papers
 
-"Newspapers, Information, and Enforcement of Environmental Laws"
+["Newspapers, Information, and Enforcement of Environmental Laws"](pdf/JMP_Cecato2022.pdf) [*Job Market Paper*]
 
-[Abstract](pdf/Abstract_news.pdf) [*Draft Available upon Request*]
-
-"Can Migration Mitigate Weather and Climate Damages?", with Frederik Noack and Patrick Baylis
-
-[Abstract](pdf/Abstract_mig.pdf) [*Draft Available upon Request*]
+["Can Migration Mitigate Weather and Climate Damages?", with Frederik Noack and Patrick Baylis](pdf/Cecato_et.al.(2022).pdf)
 
 <br>
 
 ## Work in Progress
 
 "The Impact of Lead Exposure on Education: Evidence from Mexico", with Erin Litzow and Tatiana Zarete
+
+[Abstract](pdf/Abstract_mex.pdf) [*Draft Available upon Request*]
 
 <br>
 
