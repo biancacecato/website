@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: CV
-    url: pdf/CV_Bianca.pdf
+    url: pdf/CV_BiancaCecato.pdf
     weight: 20
   # - name: Posts
   #   url: '#posts'
