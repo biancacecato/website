@@ -25,7 +25,7 @@ content:
 #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: bianca.ravani.cecato@gmail.com
+  email: bcecato@smartprosperity.ca
   address:
     street: 1 Stewart St
     city: Ottawa
