@@ -27,10 +27,10 @@ content:
   # Contact details (edit or remove options as required)
   email: bianca.ravani.cecato@gmail.com
   address:
-    street: 2357 Main Mall
-    city: Vancouver
-    region: BC
-    postcode: 'V6T 1Z4'
+    street: 1 Stewart St
+    city: Ottawa
+    region: ON
+    postcode: 'K1N 6N5'
     country: Canada
     country_code: CA
 
