@@ -32,7 +32,7 @@ social:
   icon_pack: fab
   link: https://github.com/biancacecato
 superuser: true
-title: Bianca Cecato
+title: Bianca Cecato, Ph.D.
 ---
 
 #### Welcome to my website!
