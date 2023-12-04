@@ -47,11 +47,13 @@ design:
 
 ["Can Migration Mitigate Weather and Climate Damages?", with Frederik Noack and Patrick Baylis](pdf/Cecato_et.al.(2022).pdf)
 
+["The Impact of Lead Exposure on Education: Evidence from Mexico", with Erin Litzow, Mauricio Romero, and Tatiana Zarete](pdf/Lead_and_test_scores_Mex_WP.pdf)
+
 <br>
 
 ## Work in Progress
 
-["The Impact of Lead Exposure on Education: Evidence from Mexico", with Erin Litzow, Mauricio Romero, and Tatiana Zarete](pdf/Lead_and_test_scores_Mex_WP.pdf)
+"Environmental Justice and Enforcement of Pollution Standards", with Phuong Ho and Almira Salimgarieva
 
 <br>
 
