@@ -4,7 +4,7 @@
 #install.packages("blogdown") # install the blogdown package
 install.packages("remotes")
 remotes::install_github('rstudio/blogdown')
-library(blogdown) # load blogdown
+ library(blogdown) # load blogdown
 new_site(theme = "wowchemy/starter-academic") # create your website!
 
 file.edit("gitignore")
