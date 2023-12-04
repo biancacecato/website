@@ -17,6 +17,7 @@ interests:
 - Sustainability
 - Climate change economics
 - Applied econometrics
+- Nature-based solutions
 organizations:
 - name: SPI - uOttawa
   url: https://institute.smartprosperity.ca/
