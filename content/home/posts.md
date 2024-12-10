@@ -43,9 +43,9 @@ design:
 
 ## Blog Posts
 
-[Fighting Fire with Water](https://institute.smartprosperity.ca/Wetlands-Wildfire-Mitigation)
+[Fighting Fire with Water](https://institute.smartprosperity.ca/Wetlands-Wildfire-Mitigation), a Smart Prosperity Institute Blog (2024).
 
-[How Can Canadian Environmental and Climate Policy Research Thrive?](https://institute.smartprosperity.ca/CREEA)
+[How Can Canadian Environmental and Climate Policy Research Thrive?](https://institute.smartprosperity.ca/CREEA), a Smart Prosperity Institute Blog (2023).
 
 <br>
 
