@@ -43,6 +43,8 @@ design:
 
 ## Blog Posts
 
+[Fighting Fire with Water](https://institute.smartprosperity.ca/Wetlands-Wildfire-Mitigation)
+
 [How Can Canadian Environmental and Climate Policy Research Thrive?](https://institute.smartprosperity.ca/CREEA)
 
 <br>
