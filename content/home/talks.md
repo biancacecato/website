@@ -43,3 +43,6 @@ design:
   view: 2
 ---
 
+## Panel Presentations
+
+["Economic and Financial Incentives to Accelerate Sustainable Practices in Forests""](pdf/IFSA_presentation_Bianca_Panel1.pdf) - Presented at the International Forestry Students' Association (IFSA)'s Climate Change Conference, on April 18, 2024.

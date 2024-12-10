@@ -43,23 +43,24 @@ design:
 
 ## Working Papers
 
-["Newspapers, Information, and Enforcement of Environmental Laws"](pdf/JMP_Cecato2022.pdf)
-
-["Can Migration Mitigate Weather and Climate Damages?", with Frederik Noack and Patrick Baylis](pdf/Cecato_et.al.(2022).pdf)
-
 ["The Impact of Lead Exposure on Education: Evidence from Mexico", with Erin Litzow, Mauricio Romero, and Tatiana Zarete](pdf/Lead_and_test_scores_Mex_WP.pdf)
+
+["Newspapers, Information, and Enforcement of Environmental Laws"](pdf/JMP_Cecato2022.pdf)[Latest version (2023) - Chapters 1 and 2 in my PhD dissertation]
+
+["Can Migration Mitigate Weather and Climate Damages?", with Frederik Noack and Patrick Baylis](pdf/Cecato_et.al.(2022).pdf)[Latest version (2023) - Chapter 3 in my PhD dissertation]
+
 
 
 <br>
 
 ## Policy Reports
 
-[Unlocking the Economic Power of Natural Climate Solutions](https://institute.smartprosperity.ca/unlocking-the-economic-power-of-natural-climate-solutions)
+[Unlocking the Economic Power of Natural Climate Solutions](https://institute.smartprosperity.ca/unlocking-the-economic-power-of-natural-climate-solutions), a Smart Prosperity Institute Report (2024).
 
-[Lower Fraser Valley Visual Air Quality Pilot Study](https://sustain.ubc.ca/about/resources/lower-fraser-valley-visual-air-quality-pilot-study?fbclid=IwAR3hXPyvF1DXFtY_Cmu3CMDH6D8bM-mR2BnhRii9CjWEgnzU_8sET8K6ad4), in partnership with Metro Vancouver. UBC Sustainability Scholars report, 2019.
+[Lower Fraser Valley Visual Air Quality Pilot Study](https://sustain.ubc.ca/about/resources/lower-fraser-valley-visual-air-quality-pilot-study?fbclid=IwAR3hXPyvF1DXFtY_Cmu3CMDH6D8bM-mR2BnhRii9CjWEgnzU_8sET8K6ad4), in partnership with Metro Vancouver. UBC Sustainability Scholars report (2019).
 
 <br>
 
 ## Work in Progress
 
-"Environmental Justice and Enforcement of Pollution Standards", with Phuong Ho and Almira Salimgarieva
+"Environmental Justice and Enforcement of Pollution Standards", with Phuong Ho and Almira Salimgarieva. [Abstract here](pdf/Abstract_EJ.pdf)
