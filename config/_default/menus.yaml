@@ -24,7 +24,7 @@ main:
   #   weight: 50
   - name: Public Engagement and Blog Posts
     url: '#posts'
-    weight: 20
+    weight: 30
   - name: Contact
     url: '#contact'
     weight: 75
