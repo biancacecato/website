@@ -18,13 +18,13 @@ main:
     weight: 30
    - name: Talks
      url: '#talks'
-     weight: 50
+     weight: 65
   # - name: Publications
   #   url: '#featured'
   #   weight: 50
   - name: Public Engagement and Blog Posts
     url: '#posts'
-    weight: 60
+    weight: 55
   - name: Contact
     url: '#contact'
     weight: 75
